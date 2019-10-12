@@ -21,9 +21,6 @@ Cooks are able to treat orders stacked in their kitchen. They use ingredients, r
 ### [C++](https://fr.wikipedia.org/wiki/C%2B%2B)
 ![](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
 
-### [Threads](https://bousk.developpez.com/cours/multi-thread-mutex/)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Multithreaded_process.svg/1200px-Multithreaded_process.svg.png)
-
 ## Installation
 
 1. **Clone** the repository
