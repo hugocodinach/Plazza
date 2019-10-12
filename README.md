@@ -16,7 +16,7 @@ Kitchens are able to receive orders from the reception, and to stack them. Kitch
 
 Cooks are able to treat orders stacked in their kitchen. They use ingredients, refiled automatically over time.
 
-## Technologies
+## Technology
 
 ### [C++](https://fr.wikipedia.org/wiki/C%2B%2B)
 ![](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
